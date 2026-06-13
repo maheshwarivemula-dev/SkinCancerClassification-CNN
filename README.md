@@ -55,9 +55,14 @@ http://127.0.0.1:5000
 
 ![Upload Page](screenshots/upload_page.png)
 
+<img width="1307" height="517" alt="upload page" src="https://github.com/user-attachments/assets/a27e5752-ccdc-4345-80bf-0129f78ee91a" />
+
 ### Prediction Result
 
 ![Prediction Result](screenshots/prediction_result.png)
+
+<img width="1072" height="792" alt="prediction result" src="https://github.com/user-attachments/assets/32937fcd-1d9f-4424-93fe-6d7175105412" />
+
 
 ## Author
 
