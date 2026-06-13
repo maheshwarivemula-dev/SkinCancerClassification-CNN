@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Skin Cancer Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Skin Cancer Detection</h1>
+
+    <input type="file" id="imageInput">
+
+    <br><br>
+
+    <img id="preview" width="250">
+
+    <br><br>
+
+    <button onclick="predict()">Predict</button>
+
+    <div id="result" style="margin-top:20px;"></div>
+
+    
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+dataset/
+temp.jpg
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
