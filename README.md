@@ -55,3 +55,12 @@ Maheshwari Vemula
 
 ```
 ```
+## Screenshots
+
+### Upload Page
+
+![Upload Page](screenshots/upload_page.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
