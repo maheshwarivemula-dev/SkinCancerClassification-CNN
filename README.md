@@ -46,18 +46,14 @@ python backend/app.py
 ```
 
 Open:
-
-http://127.0.0.1:5000
 http://127.0.0.1:5000
 ## Screenshots
 
 ### Upload Page
-
-<img width="1307" height="517" alt="upload page" src="https://github.com/user-attachments/assets/a27e5752-ccdc-4345-80bf-0129f78ee91a" />
+<img width="821" height="377" alt="upload page" src="https://github.com/user-attachments/assets/cd08814b-11ba-4dca-9b35-c5b8527e7211" />
 
 ### Prediction Result
-
-<img width="1072" height="792" alt="prediction result" src="https://github.com/user-attachments/assets/32937fcd-1d9f-4424-93fe-6d7175105412" />
+<img width="807" height="767" alt="prediction result" src="https://github.com/user-attachments/assets/9d2414f7-22c6-4319-a1c7-30ea5c4955a8" />
 
 
 ## Author
