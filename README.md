@@ -47,6 +47,14 @@ python backend/app.py
 
 Open:
 http://127.0.0.1:5000
+
+## Future Enhancements
+Improve model accuracy by using advanced architectures like ResNet or EfficientNet.
+Apply stronger data augmentation and handle class imbalance for better generalization.
+Add explainability using Grad-CAM to visualize model predictions.
+Deploy the model as a web or mobile app for real-time skin cancer detection.
+
+
 ## Screenshots
 
 ### Upload Page
